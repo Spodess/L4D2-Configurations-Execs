@@ -1,5 +1,5 @@
 # L4D2-Configurations-Execs
-My personal exec for Left 4 Dead 2.
+My personal exec files for Left 4 Dead 2.
 
 # Installing
 1. Have all of the .cfg's downloaded
